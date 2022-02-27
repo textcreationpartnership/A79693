@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prayers to be used during the Queens sickness, in the cities of London and Westminster. By his Majesties special command</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79693</idno>
+            <idno type="STC">Wing C4188ID</idno>
+            <idno type="STC">ESTC R230508</idno>
+            <idno type="EEBO-CITATION">99896393</idno>
+            <idno type="PROQUEST">99896393</idno>
+            <idno type="VID">154121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154121)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2399:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prayers to be used during the Queens sickness, in the cities of London and Westminster. By his Majesties special command</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill and the executrix of Thomas Newcomb deceas'd; printers to the King and Queens most excellent Majesties,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Early works to 1800.</term>
+               <term>Prayer --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154121:1"/>
+            <!-- PDF PAGE 46 -->
+            <p>PRAYERS To be Uſed during the QUEENS SICKNESS, In the Cities of <hi>London</hi> and <hi>Weſtminſter.</hi>
+            </p>
+            <p>By His Majeſties Special Command.</p>
+            <figure>
+               <q>DIEV ET MON DROIT</q>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd; Printers to the King and Queens moſt Excellent Majeſties. 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154121:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="3" facs="tcp:154121:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>PRAYERS To be uſed During the Queens Sickneſs, in the Cities of <hi>London</hi> and <hi>Weſtminſter.</hi>
+            </head>
+            <list>
+               <item>¶ This Prayer ſhall be uſed, when the Litany is not ſaid, after the Prayer <hi>for the King and Queens Majeſties;</hi> when it is ſaid, then after the Collect for the Day.<lb/>
+                  <q>
+                     <seg rend="decorInit">O</seg> Father of Mercies, and God of all Comfort, our only help in time of need; We flie unto thee for ſuccour in behalf of thy Servant our Sovereign Lady the Queen, lying now under thy hand on the bed of Sickneſs. Comfort her with thy Salvation, ſupport her with thy holy Spirit, enable her to bear whatſo<g ref="char:EOLhyphen"/>ever thou ſhalt lay upon her, with Patience and Reſignation to thy Will. Give a Bleſſing to the Means uſed for her Recovery, Reſtore her to her former Health in thy good time, and conti<g ref="char:EOLhyphen"/>nue her long, together with his Sacred Majeſty, to be the bleſſed Inſtruments of advancing thy Glo<g ref="char:EOLhyphen"/>ry, and eſtabliſhing true Religion, and Righte<g ref="char:EOLhyphen"/>ouſneſs, and Peace in theſe Kingdoms. We con<g ref="char:EOLhyphen"/>feſs that, by our manifold ſins, we have deſerved
+<pb n="4" facs="tcp:154121:3"/>
+                     <!-- PDF PAGE 48 -->
+the ſevereſt of thy Iudgments; yet we humbly beſeech thee, upon our true Repentance, to par<g ref="char:EOLhyphen"/>don all our Offences, to turn away thy Anger from us, and to hear the Prayers that we now offer up to thee: So we that are thy people and the ſheep of thy paſture ſhall give thee Thanks for ever, and will always be ſhewing forth thy Praiſe from generation to generation, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+                  </q>
+               </item>
+               <item>¶ When the Litany is not ſaid, theſe following Collects, taken out of the Office of the Viſitation of the Sick, ſhall be uſed after the Prayer <hi>for All Conditions of Men.</hi>
+                  <lb/>
+                  <q>
+                     <hi>O</hi> Lord, look down from heaven, behold, viſit and relieve thy Servant, and our moſt gracious Sovereign Lady the Queen; Look upon her with the eyes of thy Mercy, give her Comfort, and ſure Confidence in thee, defend her from the danger of the enemy, and keep her in perpetual Peace and Safety, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+                  </q>
+                  <q>HEar us, Almighty and moſt merciful God and Saviour; Extend thy accuſtomed good<g ref="char:EOLhyphen"/>neſs to this thy Servant who is grieved with Sickneſs. Sanctifie, we beſeech thee, this thy fa<g ref="char:EOLhyphen"/>therly Correction to her; that the ſenſe of her weakneſs may add ſtrength to her Faith, and ſe<g ref="char:EOLhyphen"/>riouſneſs to her Repentance. That if it ſhall be thy good pleaſure to reſtore her to her former Health, ſhe may lead the reſidue of her Life at th<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fear, and to thy glory: or elſe giue her grace ſo to take th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Viſitation, that after this painful <unclear>life</unclear> ended, ſhe may dwell with thee in life everlaſting, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+                  </q>
+               </item>
+               <item>¶ When the Litany is ſaid, then theſe two Collects ſhall be uſed after the Prayer, <hi>We humbly beſeech thee, O Fa<g ref="char:EOLhyphen"/>ther,</hi> &amp;c.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154121:3"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </body>
+   </text>
+</TEI>
